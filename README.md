@@ -6,7 +6,8 @@ Tools Used :-
            Pivot Charts
            Excel Formula
 Dashboard Preview
-<img width="1151" height="648" alt="image" src="https://github.com/user-attachments/assets/3c822a10-9cc6-43de-bd84-608f9efc18a0" />
+<img width="1139" height="640" alt="image" src="https://github.com/user-attachments/assets/0a007d36-6d0d-4c53-8b0f-1a38b504dc74" />
+
 
 Key Learning Outcomes
 
